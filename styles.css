@@ -20,15 +20,6 @@ h2{
     padding-top: 50px;
 }
 
-@media (max-width:600px){
-    #footer col{
-        display:block
-    }
-}
-
-
-@media (min-width:601px){
-    #footer col{
-        display:inline-block
-    }
+#footer h6, i {
+    width: 40%;
 }
